@@ -1,7 +1,7 @@
 body {
   margin: 0;
 }
-
+/* Connecting pages through css/html. Look at prev projects? Build each separately.*/
 
 /* On devices wider than 660px */
 @media(min-width: 660px) {
